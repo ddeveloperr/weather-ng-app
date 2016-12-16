@@ -20,7 +20,11 @@ A step by step series of examples that tell you have to get a development env ru
 Say what the step will be
 
 ```
-Clone or download project and try it wit your APP.ID  
+Clone or download project and try it with your APP.ID
+APPID you can change in the https://github.com/ddeveloperr/weather-ng-app/blob/master/controllers.js
+
+ $scope.weatherAPI = $resource("http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={YOUR-ID}"
+ 
 ```
 
 Details: https://openweathermap.org/api
