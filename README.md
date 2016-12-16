@@ -34,7 +34,7 @@ Add additional notes about how to deploy this on a live system
 
 * [AngularJS](https://angularjs.org/) - The web framework used
 * [Bootstrap](http://getbootstrap.com/) -
-* [Bootstrap](https://openweathermap.org/api) -
+* [API-openweathermap](https://openweathermap.org/api) -
 
 ## Contributing
 
